@@ -1,0 +1,2 @@
+# bsd
+swift bsd module
