@@ -1,4 +1,4 @@
-module BSD [system] {
+module bsd [system] {
 	header "/usr/include/bsd/bsd.h"
 	link "bsd"
 	export *
